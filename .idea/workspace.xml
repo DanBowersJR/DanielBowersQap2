@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="038dc993-fe08-4ade-825a-1279214b5def" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DanielBowersQAP2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/assessment_answers_cleaned.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/myrectangle_mypoint_class_diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creditcard/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creditcard/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/creditcard/TestCreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/money/Money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/money/TestMoney.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myline/MyLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myline/TestMyLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mypoint/MyPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myrectangle/MyRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myrectangle/TestMyRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DanBowersJR"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DanBowersJR/DanielBowersQap2.git",
+    "accountId": "e04b70e0-4869-4467-9a9f-4f798f324cde"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -56,7 +51,7 @@
     "Application.TestMyLine.executor": "Run",
     "Application.TestMyRectangle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
